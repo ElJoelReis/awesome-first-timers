@@ -65,3 +65,6 @@ You can start by contributing to this awesome list, follow these simple steps to
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/PR.png)
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/PRnew.png)
 7. Sit back and relax while your pull request is reviewed and merged.
+
+Greetings,
+ - [@ElJoel Reis](https://github.com/ElJoelReis)
